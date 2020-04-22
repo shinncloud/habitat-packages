@@ -10,15 +10,15 @@ pkg_deps=(core/glibc)
 pkg_build_deps=(
   core/make
   core/gcc
+  core/file
   core/pkg-config
   core/boost
   core/zlib
   core/ruby
   fifthecho/libogg
   core/libxslt
-  shinncloud/libvorbis/1.3.6/20200422032826
+  shinncloud/libvorbis
   shinncloud/libmatroska/1.5.2/20200422030329
-  shinncloud/libebml/1.3.9/20200422024840
   shinncloud/docbook-xsl/1.79.1/20200422035311
 )
 
