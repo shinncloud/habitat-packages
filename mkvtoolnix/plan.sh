@@ -18,8 +18,8 @@ pkg_build_deps=(
   fifthecho/libogg
   core/libxslt
   shinncloud/libvorbis
-  shinncloud/libmatroska/1.5.2/20200422030329
-  shinncloud/docbook-xsl/1.79.1/20200422035311
+  shinncloud/libmatroska
+  shinncloud/docbook-xsl
 )
 
 pkg_bin_dirs=(bin)
